@@ -1,17 +1,3 @@
-/**********************
-***********************
-Student 1: Huy Tran
-Red ID: 818608122
-
-Student 2: Hosun Yoo
-Red ID: 819543212
-
-CS-570
-a04
-pageTable.c
-***********************
-***********************/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
